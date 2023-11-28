@@ -1,0 +1,73 @@
+{
+    "overall": 6802.721088435375,
+    "by_tag": {
+        "score": [
+            6802.721088435375
+        ]
+    },
+    "by_project": [
+        {
+            "output": 6802.721088435375,
+            "details": {
+                "Simple Data Types Conversion": {
+                    "total_score": 68.02721088435375,
+                    "time_score": 0.0,
+                    "memory_score": 204.08163265306123,
+                    "test_score": 0.0
+                },
+                "Complex Data Structures": {
+                    "total_score": 68.02721088435375,
+                    "time_score": 0.0,
+                    "memory_score": 204.08163265306123,
+                    "test_score": 0.0
+                },
+                "Object-Oriented Paradigm": {
+                    "total_score": 68.02721088435375,
+                    "time_score": 0.0,
+                    "memory_score": 204.08163265306123,
+                    "test_score": 0.0
+                },
+                "Recursive Functions": {
+                    "total_score": 68.02721088435375,
+                    "time_score": 0.0,
+                    "memory_score": 204.08163265306123,
+                    "test_score": 0.0
+                },
+                "Functions with Varied Parameters": {
+                    "total_score": 68.02721088435375,
+                    "time_score": 0.0,
+                    "memory_score": 204.08163265306123,
+                    "test_score": 0.0
+                },
+                "Exception Handling": {
+                    "total_score": 68.02721088435375,
+                    "time_score": 0.0,
+                    "memory_score": 204.08163265306123,
+                    "test_score": 0.0
+                },
+                "Java Libraries and Dependencies": {
+                    "total_score": 68.02721088435375,
+                    "time_score": 0.0,
+                    "memory_score": 204.08163265306123,
+                    "test_score": 0.0
+                },
+                "Whole Project Conversion": {
+                    "total_score": 68.02721088435375,
+                    "time_score": 0.0,
+                    "memory_score": 204.08163265306123,
+                    "test_score": 0.0
+                },
+                "Functional Paradigm": {
+                    "total_score": 68.02721088435375,
+                    "time_score": 0.0,
+                    "memory_score": 204.08163265306123,
+                    "test_score": 0.0
+                }
+            },
+            "tags": [
+                "score"
+            ],
+            "name": "trans_eval"
+        }
+    ]
+}
