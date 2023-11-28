@@ -104,7 +104,7 @@ def extract_translate_and_evaluate(java_file_path, api_key):
             "test_score": test_score
         }
     # Save the results to output.json
-    #save_results_to_json(results)    
+    save_results_to_json(results)    
     return results
 
 # usage:
