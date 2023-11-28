@@ -1,0 +1,6 @@
+{
+  "name": "dsl_trans",
+  "model": "gpt-4",
+  "run_test": "dsl_trans.py",
+  "tags": ["score"]
+}
